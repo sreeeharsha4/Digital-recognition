@@ -27,6 +27,7 @@ The remaining values or all comma separated values, are the pixel values intensi
 
 
 ## Train data set img
+file:///C:/Users/harsha%20k/Downloads/Screenshot%202022-12-05%20204650.png
 
 ## Graph
 
