@@ -27,9 +27,12 @@ The remaining values or all comma separated values, are the pixel values intensi
 
 
 ## Train data set img
-file:///C:/Users/harsha%20k/Downloads/Screenshot%202022-12-05%20204650.png
+
+![Screenshot 2022-12-05 204650](https://user-images.githubusercontent.com/115559638/205676855-3131c7dc-19d3-42b1-acfc-33b46fe7c62d.png)
 
 ## Graph
+
+![Screenshot 2022-12-05 204735](https://user-images.githubusercontent.com/115559638/205677007-39b43b66-f6cb-478f-afcf-533edec22ed3.png)
 
 
 ## CLASSIFIERS
@@ -44,7 +47,9 @@ class sklearn.svm.SVC("C":[0.1,1,10,100],   "kernel":['ploy','linear','rbf','sig
 Accuracy score : 0.981
 
 ## Prediction of test data by SVM img
-## Authors
 
- @ SREE HARSHA K
+![Screenshot 2022-12-05 204850](https://user-images.githubusercontent.com/115559638/205677049-183be38f-4166-447c-8f2a-a0ce76e4ced7.png)
+
+## Authors
+@ SREE HARSHA K
 
